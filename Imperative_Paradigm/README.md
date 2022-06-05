@@ -1,0 +1,14 @@
+# Brief summary of the imperative paradigm #
+
+The imperative paradigm in computer programming is a model where software is designed based on giving explicit instructions to the computer to perform tasks. In an imperative program, a series of statements are executed in a sequential manner, changing the state of the program and the data it operates on. This paradigm is focused on "how" the computation is done, by specifying the steps to be followed, and it is one of the oldest and most widely used paradigms in programming.
+
+History and Motivation:
+The imperative paradigm has its roots in early computer programming languages, such as Fortran and assembly language, which were developed in the 1950s and 1960s. These early languages were designed to perform numerical computations and had a direct correspondence with the architecture of the physical hardware of the computers at that time, which were primarily based on von Neumann architecture. The von Neumann architecture consists of a central processing unit (CPU) that executes instructions sequentially, accessing and modifying data in memory.
+
+The motivation behind the imperative paradigm was to create a programming model that closely mimics the way humans perform tasks. It is based on the idea of providing step-by-step instructions to the computer, similar to a human following a recipe or a set of instructions to complete a task. This paradigm allows programmers to specify the exact sequence of operations and the order in which they should be executed, giving them fine-grained control over the computation.
+
+Over time, imperative programming languages evolved to include features such as subroutines, functions, and later on, object-oriented programming (OOP) concepts, such as classes and objects, which introduced the idea of encapsulation and abstraction. These features allowed for better organization and modularization of code, making it more manageable and maintainable.
+
+The imperative paradigm has been widely used in a wide range of application domains, including scientific computing, system programming, and general-purpose software development. However, it also has some limitations, such as the potential for spaghetti code and difficulties in managing complex state changes and dependencies. As a result, other programming paradigms, such as functional programming, logic programming, and concurrent programming, have emerged as alternatives to address these limitations.
+
+Despite its limitations, the imperative paradigm remains a fundamental and widely used paradigm in computer programming, with many popular programming languages, such as C, C++, Java, and Python, supporting imperative programming features alongside other paradigms. It continues to be used for a variety of tasks, from small scripts to large-scale applications, due to its flexibility, performance, and ease of understanding for many programmers.
