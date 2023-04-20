@@ -2,7 +2,7 @@
 
 
 ## Object-oriented programming (OOP) ##
-is a programming paradigm that organizes code into objects, which are instances of classes that encapsulate data (attributes) and behavior (methods). The main ideas of OOP are:
+Is a programming paradigm that organizes code into objects, which are instances of classes that encapsulate data (attributes) and behavior (methods). The main ideas of OOP are:
 
 ## Encapsulation ##
  This idea refers to the bundling of data (attributes) and behavior (methods) into objects. Objects are self-contained units that hide their internal state and expose a well-defined interface for interacting with them. This promotes modularity, reusability, and maintainability of code.
